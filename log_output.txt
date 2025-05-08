@@ -1,0 +1,60 @@
+https://github.com/yeogaeng/SW-Enginnering-Assignment1.git
+
+
+[eunji] Thu May 8 23:54:05 2025 +0900 Update README.md d38262c
+[Hoseung] Thu May 8 00:39:00 2025 +0900 Merge pull request #11 from yeogaeng/Hosung 7fc481a
+[Nahoseung] Thu May 8 00:37:26 2025 +0900 docs: Description 파일 수정 a14fb19
+[Hoseung] Thu May 8 00:34:10 2025 +0900 Merge pull request #10 from yeogaeng/Hosung 8a136a2
+[Nahoseung] Thu May 8 00:33:11 2025 +0900 Upload Description.pdf 820a0a9
+[고여경] Wed May 7 22:17:18 2025 +0900 docs: upload requirement list PDF 547cf5c
+[고여경] Wed May 7 22:12:36 2025 +0900 Merge pull request #8 from yeogaeng/jaesuh 37f7092
+[고여경] Wed May 7 20:21:45 2025 +0900 Merge pull request #9 from yeogaeng/yeogaeng 79a1a99
+[고여경] Wed May 7 20:21:37 2025 +0900 Merge branch 'main' into yeogaeng d488430
+[고여경] Wed May 7 20:17:16 2025 +0900 docs: requirement list no. 번호 수정 e5539c8
+[고여경] Wed May 7 20:14:46 2025 +0900 docs: requirement list 수정 ee58cd8
+[고여경] Wed May 7 19:39:34 2025 +0900 docs: Update README.md a637a05
+[고여경] Wed May 7 19:24:59 2025 +0900 Doc: Requirement List 수정 73cb76a
+[OhgamjaDragon] Wed May 7 19:18:08 2025 +0900 "Use case diagram 통합본" 32e6d2e
+[고여경] Wed May 7 00:11:37 2025 +0900 chore: move directroy 2c43277
+[고여경] Wed May 7 00:10:44 2025 +0900 chore: rename filename a404720
+[고여경] Wed May 7 00:07:27 2025 +0900 Merge pull request #7 from yeogaeng/yeogaeng c62843b
+[eunji] Tue May 6 21:55:41 2025 +0900 Merge pull request #6 from yeogaeng/choieunji b25d8fb
+[eunji] Tue May 6 21:54:56 2025 +0900 docs: SUB_DIAGRAM 추가 618918b
+[Nahoseung] Tue May 6 21:14:41 2025 +0900 docs: SUB_DIAGRAM dir 추가 38790bf
+[Hoseung] Tue May 6 21:09:17 2025 +0900 Merge pull request #5 from yeogaeng/Hosung 3a20c40
+[Nahoseung] Tue May 6 19:39:22 2025 +0900 Merge branch 'main' into Hosung a70e557
+[Nahoseung] Tue May 6 19:37:16 2025 +0900 docs:UseCase Diagram Actor 수정 2b66dca
+[OhgamjaDragon] Tue May 6 18:03:47 2025 +0900 Merge pull request #4 from yeogaeng/jaesuh 9d7cba5
+[OhgamjaDragon] Tue May 6 17:58:13 2025 +0900 Merge branch 'main' of https://github.com/yeogaeng/SW-Enginnering-Assignment1 into jaesuh ec58c8c
+[OhgamjaDragon] Tue May 6 17:32:15 2025 +0900 Merge branch 'jaesuh' of https://github.com/yeogaeng/SW-Enginnering-Assignment1 into jaesuh 1da4f22
+[OhgamjaDragon] Tue May 6 17:31:22 2025 +0900 docs: 제가 맡은 부분들 채워넣었습니다. 9c29d0c
+[OhgamjaDragon] Tue May 6 17:29:12 2025 +0900 readme말고 다른 파일 삭제 047e568
+[OhgamjaDragon] Tue May 6 17:27:30 2025 +0900 readme말고 다른 파일 삭제 2b7baa1
+[고여경] Tue May 6 17:25:25 2025 +0900 feat: usecase 생성 b77a962
+[OhgamjaDragon] Tue May 6 17:14:43 2025 +0900 README 파일에 제가 맡은 부분 채워넣었고, 제가 만든 use case diagram 부분 vpp 파일을 올렸습니다. 37ec040
+[Hoseung] Tue May 6 17:14:36 2025 +0900 Merge pull request #3 from yeogaeng/Hosung 28dc3fd
+[Hoseung] Tue May 6 17:14:18 2025 +0900 Merge branch 'main' into Hosung 1981f99
+[Nahoseung] Tue May 6 17:11:17 2025 +0900 docs: Usecasediagram 이름 변경 fd5b786
+[Nahoseung] Tue May 6 17:07:40 2025 +0900 docs:UseCaseDiagram 추가 69a3b61
+[Nahoseung] Tue May 6 17:05:53 2025 +0900 docs:RequirementList,UsecaseDiagram 추가 76c6648
+[eunji] Tue May 6 16:55:54 2025 +0900 Delete .DS_Store 684976d
+[eunji] Tue May 6 16:55:05 2025 +0900 Merge pull request #2 from yeogaeng/choieunji 0032b5c
+[eunji] Tue May 6 16:54:28 2025 +0900 docs: RequirementList 추가 e86333c
+[OhgamjaDragon] Tue May 6 16:36:45 2025 +0900 Merge branch 'main' into jaesuh ad7c06a
+[고여경] Tue May 6 15:30:21 2025 +0900 Merge pull request #1 from yeogaeng/yeogaeng 93588a7
+[고여경] Tue May 6 15:24:31 2025 +0900 Merge branch 'yeogaeng' of https://github.com/yeogaeng/SW-Enginnering-Assignment1 into yeogaeng 00ce446
+[고여경] Tue May 6 15:23:53 2025 +0900 docs: RequirementList 추가 2a264f9
+[OhgamjaDragon] Tue May 6 03:18:02 2025 +0900 usecase diagram에서 제가 맡은 부분입니다. 9a9d2d4
+[고여경] Fri May 2 17:25:59 2025 +0900 Update README.md 35b91ab
+[고여경] Fri May 2 17:25:18 2025 +0900 Update README.md 4a66f6f
+[고여경] Fri May 2 17:25:03 2025 +0900 Update README.md ba9407e
+[고여경] Fri May 2 17:24:48 2025 +0900 Update README.md 064e240
+[고여경] Fri May 2 17:24:18 2025 +0900 Update README.md af076da
+[고여경] Fri May 2 17:23:24 2025 +0900 Update README.md 8a81856
+[고여경] Fri May 2 17:18:19 2025 +0900 Update README.md b810670
+[고여경] Fri May 2 17:08:33 2025 +0900 Update README.md e357b40
+[고여경] Fri May 2 17:07:39 2025 +0900 Update README.md 302695c
+[고여경] Fri May 2 17:05:22 2025 +0900 Update README.md ba7f547
+[고여경] Fri May 2 17:00:32 2025 +0900 Update README.md 373ee85
+[고여경] Fri May 2 16:59:19 2025 +0900 Update README.md eaf2f01
+[고여경] Fri May 2 13:50:01 2025 +0900 Initial commit 4023316
