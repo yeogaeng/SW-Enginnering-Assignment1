@@ -1,9 +1,12 @@
 https://github.com/yeogaeng/SW-Enginnering-Assignment1.git
 
+[고여경] Fri May 9 12:10:59 2025 +0900 Merge pull request #12 from yeogaeng/jaesuh b955f94
+[고여경] Fri May 9 12:09:45 2025 +0900 docs: update git log 2c371f4
 [Hoseung] Fri May 9 10:56:30 2025 +0900 Merge pull request #13 from yeogaeng/Hosung b205596
 [Nahoseung] Fri May 9 10:55:37 2025 +0900 docs: description 12 수정 7494979
 [고여경] Fri May 9 00:08:56 2025 +0900 docs: git log_output 파일 생성 087ef9d
 [eunji] Thu May 8 23:54:05 2025 +0900 Update README.md d38262c
+[OhgamjaDragon] Thu May 8 12:12:16 2025 +0900 docs:C035248_OH_JAESUH_USECASE_DIAGRAM 추가 334c772
 [Hoseung] Thu May 8 00:39:00 2025 +0900 Merge pull request #11 from yeogaeng/Hosung 7fc481a
 [Nahoseung] Thu May 8 00:37:26 2025 +0900 docs: Description 파일 수정 a14fb19
 [Hoseung] Thu May 8 00:34:10 2025 +0900 Merge pull request #10 from yeogaeng/Hosung 8a136a2
